@@ -61,7 +61,7 @@
 		"lodash.debounce": "^4.0.8",
 		"markdown-draft-js": "^1.4.1",
 		"minireset.css": "^0.0.5",
-		"moment": "^2.22.2",
+		"moment": "^2.29.2",
 		"react": "^16.8.4",
 		"react-day-picker": "https://github.com/samuelmeuli/react-day-picker",
 		"react-dom": "^16.8.4",
